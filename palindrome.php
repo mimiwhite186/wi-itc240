@@ -1,6 +1,6 @@
 <?php
 
-$a = "dog";
+$a = "shadow";
 
 $b =  strrev($a);
 
