@@ -3,7 +3,7 @@
 <body>
 
 <?php
-$numbers = array(57, 5, 16, 9, 92, 37);
+$numbers = array(57, 5, 16, 9, -92, 37);
 sort($numbers);
 echo "The order of the numbers is:<br/>";
 $numlength = count($numbers);
