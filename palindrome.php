@@ -1,3 +1,7 @@
+<!DOCTYPE html>
+<html>
+<body>
+	
 <?php
 
 $a = "shadow";
@@ -23,3 +27,6 @@ $b =  strrev($a);
 
     }
 ?>
+
+</body>
+</html>
