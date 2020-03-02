@@ -1,6 +1,6 @@
 <html>
 <head>
-	<title>A basic arithmetic operations calculator</title>
+<title>A basic arithmetic operations calculator</title>
 </head>
 <?php
 $num1 = $_POST['num1'];
